@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Abhirup Sahoo — Creative Developer" width="100%" />
-  <br /><br />
+  <h1>Ideas made interactive.</h1>
+  <p>Creative web experiences with visual design and useful functionality.</p>
+  <br />
   <a href="https://github.com/abhirupsahoo06-web?tab=followers"><img src="https://img.shields.io/github/followers/abhirupsahoo06-web?label=FOLLOWERS&style=flat-square&color=111827&labelColor=0891b2" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=abhirupsahoo06-web&style=flat-square&color=111827&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<p align="center"><strong>Turning curious ideas into interactive digital experiences.</strong></p>
 
 ## About me
 
